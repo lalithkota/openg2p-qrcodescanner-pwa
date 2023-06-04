@@ -1,4 +1,4 @@
-import 'css/style.css'
+import './css/style.css'
 import { setupScanner } from './scanner.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
